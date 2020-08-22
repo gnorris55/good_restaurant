@@ -1,0 +1,17 @@
+#page-details .menu-title {
+  margin-left: 40px;
+  color: lightcoral;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black; }
+
+#page-details .list-container {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  margin-left: 40px; }
+  #page-details .list-container .item {
+    border: grey solid 1px;
+    background-color: lightcoral;
+    text-align: center;
+    justify-content: center;
+    align-content: center; }
